@@ -1,1 +1,1 @@
-# Student-Enrollment-Portal
+# student-enrollment-portal
