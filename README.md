@@ -1,3 +1,12 @@
+Deployed App : https://student-enrollment-portal-tanvighule21.vercel.app/
+
+Preview : 
+
+![Student enrollment form 1](https://user-images.githubusercontent.com/98412299/155666542-811d98f4-46e2-46a1-bb49-36449b2d48a8.png)
+
+![Student enrollment form 2](https://user-images.githubusercontent.com/98412299/155666576-8b256062-ddfe-4176-8bea-5417708c1819.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
